@@ -1,3 +1,4 @@
+'use strict'
 const $signInForm = document.querySelector('.sign-in-form')
 
 const $userEmailInput = document.querySelector('#user-email')

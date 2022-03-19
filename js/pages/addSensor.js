@@ -1,3 +1,4 @@
+'use strict'
 const $addSensorForm = document.querySelector('.add-sensor-form')
 
 const $latInput = document.querySelector('.lat-input')

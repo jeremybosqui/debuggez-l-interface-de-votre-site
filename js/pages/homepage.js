@@ -1,3 +1,4 @@
+'use strict'
 const $sensorsWrapper = document.querySelector('.sensors-wrapper')
 
 const ITEMS_PER_PAGE = 8

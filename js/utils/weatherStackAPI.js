@@ -1,3 +1,4 @@
+'use strict'
 const ACCESS_KEY = ''
 
 const _retrieveWeatherForecastMockedData = () => fetch('/data/weather-api-mocked-data.json')

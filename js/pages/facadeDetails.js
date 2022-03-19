@@ -1,4 +1,5 @@
 // Sensor data table
+'use strict'
 const $sensorId = document.querySelector('.sensor-id')
 const $sensorBrand = document.querySelector('.sensor-brand')
 const $sensorStatus = document.querySelector('.sensor-status')
